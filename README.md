@@ -1,7 +1,7 @@
 # Delaware EV Charging Dashboard
 
 ## Overview
-I created a Power BI Project, this project entails a comprehensive dashboard on electric vehicle (EV) charging stations in Delaware. It provides information about the distribution of those stations by city, county and brand as well as the average costs of them by season and county.
+I developed a Power BI dashboard offering a detailed analysis of electric vehicle (EV) charging stations in Delaware. It highlights the distribution of stations by city, county, and brand, along with insights into average charging costs across seasons and counties.
 
 
 
